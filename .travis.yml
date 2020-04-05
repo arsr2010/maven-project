@@ -1,9 +1,9 @@
 language: java
 os: linux
 dist: bionic
-branches:
-  only: 
-    - master
+#branches:
+##  only: 
+#    - master
  cache:
    directories:
      - $HOME/.m2
